@@ -1,0 +1,37 @@
+mode = "dark"
+
+# Graphite cabin surfaces with champagne-metal highlights sampled from the
+# sunset, bodywork, and architectural lighting in the theme background.
+accent = "#D2A35F"
+selection = "#493A2B"
+muted = "#625A50"
+
+background = "#0D0D0C"
+dark_background = "#090908"
+darker_background = "#050505"
+lighter_background = "#24211D"
+
+foreground = "#E7E2D9"
+dark_foreground = "#8B8278"
+light_foreground = "#C9C1B6"
+bright_foreground = "#FFF7E8"
+
+# A restrained metallic sweep on focused windows and shell surfaces.
+hyprland_active_border = "rgba(f1e8d8ee) rgba(c88f4bee) 45deg"
+hyprland_inactive_border = "rgba(514b44aa)"
+
+red = "#D36B5D"
+yellow = "#D9B06A"
+orange = "#C7834C"
+green = "#91A578"
+cyan = "#89AFAD"
+blue = "#7F9FAF"
+magenta = "#AE8999"
+brown = "#896A49"
+
+bright_red = "#ED8B7E"
+bright_yellow = "#F0C987"
+bright_green = "#ADC594"
+bright_cyan = "#A9CFCD"
+bright_blue = "#A3C1D0"
+bright_magenta = "#CEACBA"
